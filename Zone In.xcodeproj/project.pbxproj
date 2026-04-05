@@ -72,10 +72,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7DC4B9172F81272600F3565A = {
+		7D0FB54D2F812AF6005956F3 /* New Group */ = {
 			isa = PBXGroup;
 			children = (
 				7DC4B9222F81272600F3565A /* Zone In */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		7DC4B9172F81272600F3565A = {
+			isa = PBXGroup;
+			children = (
+				7D0FB54D2F812AF6005956F3 /* New Group */,
 				7DC4B9322F81272800F3565A /* Zone InTests */,
 				7DC4B93C2F81272800F3565A /* Zone InUITests */,
 				7DC4B9212F81272600F3565A /* Products */,
